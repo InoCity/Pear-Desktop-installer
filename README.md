@@ -25,3 +25,9 @@ The script will handle everything automatically (dependencies, setup, and execut
 * No Flatpak required
 * Portable AppImage
 * Simple and fast installation
+
+## Tips
+
+To enable AD Blocking, go in **Plugins** > Do Not Track
+
+And be happy listening to your favorite songs! :D
