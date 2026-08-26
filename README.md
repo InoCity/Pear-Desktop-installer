@@ -13,7 +13,7 @@ An easy and lightweight Pear Desktop installer, using **AppImage** and a simple 
 After downloading the installer, run it with:
 
 ```bash
-sh /path/to/YTMusicInstaller.sh
+sh /path/to/pear-desktop-installer.sh
 ```
 
 The script will handle everything automatically (dependencies, setup, and execution), and **there is no need to run it from the terminal after installation** — it automatically creates a menu entry, so you can launch it from your system app menu.
