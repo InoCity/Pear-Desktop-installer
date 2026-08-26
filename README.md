@@ -6,6 +6,8 @@ An easy and lightweight Pear Desktop installer, using **AppImage** and a simple 
 
 <img src="ytmusicmenu_screenshot.png">
 
+btw the icon is now black, not that purple/pink anymore lel
+
 ---
 
 ## Installation
